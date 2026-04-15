@@ -1,6 +1,6 @@
 default:
   name: "小西 一石"
-  avatar: "/assets/images/icons/default.png"
+  avatar: "/assets/images/icons/me_logo.png"
   bio: "趣味でゆるコン日記をつけてます"
   links:
     - label: "Twitter"
