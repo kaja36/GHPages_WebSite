@@ -1,30 +1,38 @@
 ---
-title: "myゆるコン日記"
+title: "my ゆるコン日記"
 author: default
 permalink: /
 ---
-# ゆるコン(ゆるコンピュータ科学ラジオ)とは
+## ゆるコン(ゆるコンピュータ科学ラジオ)とは
 wiki
 
 memo:
-- 精確な情報を提供しているかどうかは怪しいが、入口に立つという点では良いと思う
+- 知識ゼロでも聞きやすい
+- 詳細は諸説あるが、入口に立つという点では良いと思う
 
-# おすすめランキング
-## 1. 
-サムネ
-リンク
-説明
-## 2.
-サムネ
-リンク
-説明
-## 3.
-サムネ
-リンク
-説明
-## 4.
+## おすすめ
+### 
+![ビットコン_サムネ](http://img.youtube.com/vi/wZJ3TFTtlSg/hqdefault.jpg)
 
-## 5.
+[世界一美しい論文「ビットコイン」を読む。](https://www.youtube.com/watch?v=wZJ3TFTtlSg&list=PL0GEQcnC7e3ayNGKXCOIu1vwLmRMndKMh)
+
+説明
+### 
+[不平等_サムネ](http://img.youtube.com/vi/SauLUz043gg/hqdefault.jpg)
+
+[日本の通信主権を奪った、知られざる不平等条約](https://youtu.be/SauLUz043gg?si=-2DsfDcQFzNM8AEH)
+
+説明
+
+### 3.
+サムネ
+
+リンク
+
+説明
+### 4.
+
+### 5.
 
 
 
